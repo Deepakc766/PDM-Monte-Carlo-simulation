@@ -1,4 +1,4 @@
-                                                                           Construction Project Scheduling Suite
+Construction Project Scheduling Suite
 Overview
 
 This Python-based project demonstrates a progressive approach to construction project scheduling, starting from deterministic CPM and PERT methods and extending to an advanced probabilistic PDM using Monte Carlo simulation.
